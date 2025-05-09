@@ -28,30 +28,19 @@ Cada pasta representa um projeto individual
 │   ├── Notebook 0 - introdução, jupyter e variáveis-checkpoint.ipynb
 │   ├── Notebook 10 - arquivos-checkpoint.ipynb
 │   └── ola_mundo-checkpoint.txt
-├── chatgpt/
-│   ├── .ipynb_checkpoints/
-│   │    ├── Case-GenAI-checkpoint.ipynb
-│   │    ├── resumos_paises_tecnico-checkpoint.pdf
-│   │    └── resumos_paises-checkpoint.pdf
-│   ├── Case-GenAI.ipynb
-│   ├── Cenário Econômico.pdf
-│   ├── resumos_paises_tecnico.pdf
-│   └── resumos_paises.pdf
-├── Notebook 0 - introdução, jupyter e variáveis.ipynb
-├── Notebook 1 - tipos de dados, input output, operadores matemáticos.ipynb
-├── Notebook 2 - operadores lógicos, condicionais e while.ipynb
-├── Notebook 3 - listas e loop for.ipynb
-├── Notebook 4 - strings.ipynb
-├── Notebook 5 - funções e bibliotecas.ipynb
-├── Notebook 6 - tuplas, dicionários e conjuntos.ipynb
-├── Notebook 7 - POO 1 - classes simples.ipynb
-├── Notebook 8 - POO 2 - métodos mágicos.ipynb
-├── Notebook 9 - POO 3 - herança e polimorfismo.ipynb
-├── Notebook 10 - arquivos.ipynb
-├── README.md
-├── alunos_star_wars.csv
-├── aula_primeiros_passos.ipynb
-├── notas.txt
-├── ola_mundo.txt
-├── ola_mundo2.txt
-└── ola_mundo3.txt
+├── agrupamentos.ipynb
+├── Aula 10.ipynb
+├── black_friday.csv
+├── candy_production.csv
+├── como variáveis se relacionam.ipynb
+├── conceitos dados.ipynb
+├── Cuisine_rating.csv
+├── dados faltantes constantes.ipynb
+├── houses_sp.csv
+├── houses_to_rent.csv
+├── outliers.ipynb
+├── visualização séries históricas.ipynb
+├── avisualizações variáveis categóricas.ipynb
+├── winequality-red-binary.csv
+├── winequality-red.csv
+└── README.md
