@@ -5,17 +5,15 @@ Este repositório contém os projetos desenvolvidos durante o curso de Data Scie
 ## Conteúdo
 O curso de Data Science apresenta uma introdução abrangente para iniciantes na Análise Exploratória de Dados, abordando desde os conceitos fundamentais da análise exploratória até a identificação e o tratamento de elementos essenciais, como agrupamentos, dados faltantes e outliers, utilizando ferramentas como Python, Numpy, Pandas, Seaborn e Matplotlib.
 
-- **Variáveis, Tipos, Coerção, I/O e Operadores Aritméticos**
-- **Operadores Lógicos, Condicionais e While**
-- **Listas e For**
-- **Strings**
-- **Funções**
-- **Tuplas, Dicionários e Conjuntos**
-- **OOP em Python:**
-  - **Conceitos e Classes Simples**
-  - **Métodos Mágicos**
-  - **Herança e Polimorfismo**
-- **Arquivos txt e csv**
+- **O que é Análise Exploratória de Dados**
+- **Tipos de Dados**
+- **Agrupamentos**
+- **Dados Faltantes e Dados Constantes**
+- **Outliers e Tratamento de Outliers**
+- **Visualizações para Variáveis Categóricas**
+- **Visualizações para Séries Históricas**
+- **Como Variáveis se Relacionam**
+- **Perguntas para Motivas as Análises**
 
 ## Estrutura do Repositório
 
