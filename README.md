@@ -22,19 +22,14 @@ Cada pasta representa um projeto individual
 ```plaintext
 .
 ├── .ipynb_checkpoints/
-│   ├── alunos_star_wars-checkpoint.csv
-│   ├── aula_primeiros_passos-checkpoint.ipynb
-│   ├── notas-checkpoint.txt
-│   ├── Notebook 0 - introdução, jupyter e variáveis-checkpoint.ipynb
-│   ├── Notebook 10 - arquivos-checkpoint.ipynb
-│   └── ola_mundo-checkpoint.txt
-├── agrupamentos.ipynb
 ├── Aula 10.ipynb
+├── Cuisine_rating.csv
+├── README.md
+├── agrupamentos.ipynb
 ├── black_friday.csv
 ├── candy_production.csv
 ├── como variáveis se relacionam.ipynb
 ├── conceitos dados.ipynb
-├── Cuisine_rating.csv
 ├── dados faltantes constantes.ipynb
 ├── houses_sp.csv
 ├── houses_to_rent.csv
@@ -42,5 +37,4 @@ Cada pasta representa um projeto individual
 ├── visualização séries históricas.ipynb
 ├── avisualizações variáveis categóricas.ipynb
 ├── winequality-red-binary.csv
-├── winequality-red.csv
-└── README.md
+└── winequality-red.csv
